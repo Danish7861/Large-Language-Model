@@ -1,5 +1,5 @@
 # Large-Language-Model 
-# Pakistan Prime Minister Information Generator
+# Pakistan's Prime Ministers Information Generator Project Using Lamma 2
 
 ![Project Logo](llm7b.png)
 

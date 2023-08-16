@@ -1,11 +1,11 @@
 # Large-Language-Model 
-# Prime Minister Information Generator
+# Pakistan Prime Minister Information Generator
 
 ![Project Logo](llm7b.png)
 
 ## Introduction
 
-Welcome to the Prime Minister Information Generator project! In this project, we explore the world of data processing and language models to extract insightful information about Pakistan's Prime Ministers. By fine-tuning a large language model, we're able to generate detailed answers to specific questions about their tenures, achievements, and more.
+Welcome to the Pakistan Prime Minister Information Generator project! In this project, we explore the world of data processing and large language models to extract insightful information about Pakistan's Prime Ministers. By fine-tuning a large language model, we're able to generate detailed answers to specific questions about their tenures, achievements, and more.
 
 ## Project Overview
 
